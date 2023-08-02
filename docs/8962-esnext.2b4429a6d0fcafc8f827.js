@@ -1,0 +1,1 @@
+(self.webpackChunkcalendarUi=self.webpackChunkcalendarUi||[]).push([[8962],{8962:function(n,e,r){"use strict";r.r(e),r.d(e,{SplashScreenWeb:function(){return s}});var c=r(6304),u=r(8384);class s extends u.Uw{show(n){return(0,c.Z)(function*(){})()}hide(n){return(0,c.Z)(function*(){})()}}}}]);
